@@ -97,7 +97,7 @@
 &kp DELETE       &kp F1        &kp F2        &kp F3        &kp F4        &kp F5          &kp F6           &kp F7          &kp F8           &kp F9           &kp F10          &kp F11
 &kp PRINTSCREEN  &kp C_PREV    &kp C_NEXT    &kp C_VOL_DN  &kp C_VOL_UP  &kp C_PP        &kp LEFT         &kp DOWN        &kp UP           &kp RIGHT        &kp F12          &rgb_ug RGB_BRD
 &bt BT_CLR       &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI  &rgb_ug RGB_BRI
-                                             &kp LEFT_ALT  &trans        &kp SPACE       &trans           &kp BACKSPACE   &kp ENTER
+                                             &kp LEFT_ALT  &mo 3         &kp SPACE       &trans           &trans          &kp ENTER
             >;
         };
 
