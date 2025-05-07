@@ -102,7 +102,7 @@
 
         layer_3 {
             bindings = <
-&trans  &trans           &trans           &trans           &trans           &trans    &trans  &trans                             &trans                             &trans                             &trans                            &trans
+&trans  &trans           &trans           &trans           &trans           &trans    &trans  &trans                             &trans                             &trans                             &trans                            &kp A
 &trans  &rgb_ug RGB_ON   &rgb_ug RGB_OFF  &rgb_ug RGB_HUI  &rgb_ug RGB_HUD  &trans    &trans  &rgb_ug RGB_SAI                    &rgb_ug RGB_SAD                    &rgb_ug RGB_BRI                    &rgb_ug RGB_BRD                   &trans
 &trans  &rgb_ug RGB_SPI  &rgb_ug RGB_SPD  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &trans    &trans  &rgb_ug RGB_COLOR_HSB(319,100,50)  &rgb_ug RGB_COLOR_HSB(360,100,50)  &rgb_ug RGB_COLOR_HSB(175,100,50)  &rgb_ug RGB_COLOR_HSB(62,100,50)  &trans
                                           &trans           &trans           &trans    &trans  &trans                             &trans
